@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lõputöö - Raigo-Robin Anni, TITge22/1.0.0": {
+        "runtime": {
+          "Lõputöö - Raigo-Robin Anni, TITge22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lõputöö - Raigo-Robin Anni, TITge22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
